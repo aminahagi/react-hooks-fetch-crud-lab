@@ -12,3 +12,4 @@ export const data = [
     correctIndex: 2,
   },
 ];
+
